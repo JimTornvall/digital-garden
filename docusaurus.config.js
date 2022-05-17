@@ -102,12 +102,12 @@ const config = {
                 href: 'https://www.linkedin.com/in/jim-t%C3%B6rnvall-19b1b3236/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Github',
+                href: 'https://github.com/JimTornvall',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Email',
+                href: 'mailto:test@test.test',
               },
             ],
           },
