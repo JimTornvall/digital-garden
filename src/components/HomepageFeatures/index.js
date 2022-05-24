@@ -20,16 +20,19 @@ const FeatureList = [
       <>
         Currently persuing my Bachelor of Information Technology at
         Åland University of Applied Sciences.
+        <br /><br />
+        Last bigger project was an blogplatform built in C using CGI, SQLite and Bcrypt.
       </>
     ),
   },
   {
-    title: 'Data Science Enthusiast',
+    title: 'Data Science/Analytics Enthusiast',
     Png: require('@site/static/img/bar-chart.png').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Currently collecting/hoarding a lot of data on Aland Islands, and playing with datasette (by Simon Willison) for exploring the data.
+        <br /><br />
+        Next I will probably be looking at Tableau, Power BI or Superset.
       </>
     ),
   },

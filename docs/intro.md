@@ -6,6 +6,14 @@ sidebar_position: 1
 
 [Icons](https://www.flaticon.com/packs/data-science-9?k=1652808942937)
 
+```jsx title="src/components/HelloDocusaurus.js"
+function HelloDocusaurus() {
+    return (
+        <h1>Hello, Docusaurus!</h1>
+    )
+}
+```
+
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
